@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Selamat datang
 
-You can use the [editor on GitHub](https://github.com/PythonID/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gunakan penyunting yang ada di Github atau kesukaan sendiri-sendiri, untuk menyunting file-file Markdown yang ada, lalu setelah disetor, GitHub Pages akan menjalankan [Jekyll](https://jekyllrb.com) untuk membangun ulang halaman-halaman.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Penjelasan lebih lanjut ada di [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-```markdown
-Syntax highlighted code block
+### Dukungan
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PythonID/pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Masih bingung? Baca-baca [dokumentasi Github Pages](https://help.github.com/categories/github-pages-basics/) dulu baru bertanya di grup PythonID.
