@@ -1,1 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+# For the upper right navigation
+aux_links:
+    "PythonID Pages on GitHub":
+      - "//github.com/PythonID/pages"
+color_scheme: "dark"
