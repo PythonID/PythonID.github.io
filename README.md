@@ -10,4 +10,4 @@ Penjelasan lebih lanjut ada di [GitHub Flavored Markdown](https://guides.github.
 
 ### Dukungan
 
-Masih bingung? Baca-baca [dokumentasi Github Pages](https://help.github.com/categories/github-pages-basics/) dulu baru bertanya di grup PythonID.
+Masih bingung? Baca-baca [dokumentasi Github Pages](https://help.github.com/categories/github-pages-basics/) dulu baru bertanya di [grup Telegram PythonID](https://t.me/pythonID).
