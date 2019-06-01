@@ -1,3 +1,7 @@
+---
+title: Beranda
+---
+
 ## Selamat datang
 
 Gunakan penyunting yang ada di Github atau kesukaan sendiri-sendiri, untuk menyunting [file-file Markdown yang ada](https://github.com/PythonID/pages).
