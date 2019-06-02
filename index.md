@@ -12,4 +12,4 @@ Masih bingung? Baca-baca dulu dokumentasi tentang:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Pages](https://help.github.com/categories/github-pages-basics/)
 
-Baru bertanya di [grup Telegram PythonID](https://t.me/pythonID).
+Setelah baca, baru bertanya di [grup Telegram PythonID](https://t.me/pythonID).
