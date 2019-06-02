@@ -7,9 +7,9 @@ nav_order: 4
 
 ## Bahasa Indonesia
 - [CodeSaya](https://codesaya.com)
+- [Workshop Python 101](https://sakti.github.io/python101/)
 - [Belajar Python, oleh Owo Sugiana](http://indorey.blogspot.co.id/2015/12/buku-belajar-python-dalam-bahasa.html)
 - [Membuat Aplikasi Bisnis, oleh Owo Sugiana](https://drive.google.com/file/d/0B_ZKePry36BiczFBbWVCSGlab2M/edit)
-- [Workshop Python 101](https://sakti.github.io/python101/)
 
 ## Bahasa Inggris
 
@@ -17,13 +17,13 @@ nav_order: 4
 - [Learn Python](https://www.learnpython.org)
 - [Learn Python the Hard Way](https://learnpythonthehardway.org)
 - [Learn Python the Easy Way](https://pythonbooks.revolunet.com)
+- [Learn By Example](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
 - [SoloLearn Python](https://www.sololearn.com/Course/Python/)
 - [Tutorials Point](https://www.tutorialspoint.com/python3/)
 - [Free Programming eBooks by O'Relly](https://www.oreilly.com/programming/free/)
 - [More Free eBooks by O'Relly](http://www.openculture.com/2017/01/download-243-free-ebooks-on-design-data-software.html) 
-- [Learn By Example](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
-- [Django vs Flask](https://devel.tech/features/django-vs-flask/)
 - [How To Think Like A Computer Scientist](https://klinikpython.wordpress.com/2016/10/04/161001-ini-dia-buku-rujukan-terbaik-untuk-pemula/)
+- [Django vs Flask](https://devel.tech/features/django-vs-flask/)
 
 ### Berbayar
 - [Programming Python](http://shop.oreilly.com/product/9780596158118.do)
