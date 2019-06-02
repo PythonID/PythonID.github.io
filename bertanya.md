@@ -1,3 +1,6 @@
+---
+---
+
 Etika bertanya yang baik:
 - Sebelum bertanya, dicoba sendiri dulu untuk mencari solusinya
 - Sebelum bertanya, tunjukkan bahwa anda sudah berusaha memecahkan masalahnya
