@@ -5,7 +5,7 @@ nav_order: 1
 
 # Selamat datang di PythonID Pages!
 
-Gunakan penyunting yang ada di Github atau kesukaan sendiri-sendiri, untuk menyunting [file-file Markdown yang ada](https://github.com/PythonID/pages).
+Sunting file-file Markdown yang ada di [repo ini](https://github.com/PythonID/pages) menggunakan Github atau kesukaan sendiri-sendiri.
 
 Setelah disetor, GitHub Pages akan menjalankan [Jekyll](https://jekyllrb.com) untuk membangun ulang halaman-halaman.
 
