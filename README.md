@@ -4,6 +4,6 @@ Setelah disetor, GitHub Pages akan menjalankan [Jekyll](https://jekyllrb.com) un
 
 Masih bingung? Baca-baca dulu dokumentasi tentang:
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Github Pages](https://help.github.com/categories/github-pages-basics/)
+- [GitHub Pages](https://help.github.com/categories/github-pages-basics/)
 
 Baru bertanya di [grup Telegram PythonID](https://t.me/pythonID).
