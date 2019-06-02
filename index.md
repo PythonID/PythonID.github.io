@@ -1,5 +1,6 @@
 ---
 title: Beranda
+nav_order: 1
 ---
 
 # Selamat datang di PythonID Pages!
