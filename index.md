@@ -3,9 +3,9 @@ title: Beranda
 nav_order: 1
 ---
 
-# Selamat datang di PythonID Pages!
+# Selamat datang!
 
-Sunting file-file Markdown yang ada di [repo ini](https://github.com/PythonID/pages) menggunakan Github atau kesukaan sendiri-sendiri.
+Sunting file-file Markdown yang ada di [repo ini](https://github.com/PythonID/PythonID.github.io) menggunakan Github atau kesukaan sendiri-sendiri.
 
 Setelah disetor, GitHub Pages akan menjalankan [Jekyll](https://jekyllrb.com) untuk membangun ulang halaman-halaman.
 
