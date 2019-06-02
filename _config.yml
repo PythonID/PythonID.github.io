@@ -1,8 +1,8 @@
-title: PythonID Pages
+title: PythonID.github.io
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 # For the upper right navigation
 aux_links:
-    "PythonID Pages di GitHub":
-      - "//github.com/PythonID/pages"
+    "Sumber situs ini di GitHub":
+      - "https://github.com/PythonID/PythonID.github.io"
 color_scheme: "dark"
