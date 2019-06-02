@@ -4,20 +4,33 @@ nav_order: 2
 ---
 
 Etika bertanya yang baik:
-- Sebelum bertanya, dicoba sendiri dulu untuk mencari solusinya
-- Sebelum bertanya, tunjukkan bahwa anda sudah berusaha memecahkan masalahnya
-- Sebelum bertanya, harap dicek kembali bahwa pertanyaan anda sudah jelas, soalnya kita bukan dukun
-- Waktu menulis pertanyaan, harap dijelaskan juga alur dari masalahnya dan usaha yang telah dilakukan
-- Screenshot yang jelas kalau ada screenshot
-- Ingat, kita semua manusia yang waktunya terbatas, jika tidak dijawab, diharapkan bersabar.
-- Jika pertanyaannya ada code, disertakan codenya secara lengkap, jangan lupa untuk menutupi bagian password jika ada
-- Jika anda tidak ditanggapi dengan serius, kemungkinan anda tidak bertanya dengan benar.
+- Sebelum bertanya, coba sendiri dulu untuk mencari solusinya.
+- Sebelum bertanya, tunjukkan bahwa Anda sudah berusaha memecahkan masalahnya.
+- Sebelum bertanya, cek kembali bahwa pertanyaan anda sudah jelas, soalnya kita bukan dukun.
+- Waktu menulis pertanyaan, jelaskan juga alur dari masalahnya dan usaha yang telah dilakukan.
+- Lampirkan tangkapan layar (screenshot) yang jelas, bukan difoto dengan kamera.
+- Lampirkan kode lengkap dan jangan lupa untuk menutupi bagian rahasia jika ada.
+- Ingat, kita semua manusia yang waktunya terbatas, jika tidak dijawab, harap bersabar.
+- Jika Anda tidak ditanggapi dengan serius, kemungkinan Anda tidak bertanya dengan benar.
 
 Contoh pertanyaan yang baik:
 
-"Selamat malam kak, saya sedang mencoba untuk query API dari website tertentu tetapi code saya error terus. Sudah saya coba <usaha a>, <usaha b>
+```
+Selamat malam,
 
-<sample code>
-<screenshot error>
+Saya sedang mencoba untuk query API dari website <alamat website>
 
-Kira kira bagaimana agar saya bisa selesaikan masalah ini?"
+Tetapi kode saya error terus.
+
+Sudah saya coba:
+- <usaha a>
+- <usaha b>
+
+Berikut kodenya: <alamat kode berada atau file berisikan kodenya>
+
+Saya upload setelah pesan ini, error-nya.
+
+Kira kira bagaimana agar saya bisa selesaikan masalah ini?
+```
+
+Pesan berikutnya lalu berupa gambar tangkapan layar yang menunjukkan error-nya.
