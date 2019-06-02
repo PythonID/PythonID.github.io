@@ -28,5 +28,5 @@ nav_order: 4
 ### Berbayar
 - [Programming Python](http://shop.oreilly.com/product/9780596158118.do)
 - [Learning Python](http://shop.oreilly.com/product/0636920028154.do)
-* [Everything You Need to Program in Python](https://www.udemy.com/the-python-bible/)
-* [Python for Everybody](https://www.coursera.org/courses?languages=en&query=python+for+everybody)
+- [Everything You Need to Program in Python](https://www.udemy.com/the-python-bible/)
+- [Python for Everybody](https://www.coursera.org/courses?languages=en&query=python+for+everybody)
