@@ -3,7 +3,10 @@ title: Bertanya
 nav_order: 3
 ---
 
-Etika bertanya yang baik:
+# Bertanya Yang Baik
+
+## Etika
+
 - Sebelum bertanya, coba sendiri dulu untuk mencari solusinya.
 - Sebelum bertanya, tunjukkan bahwa Anda sudah berusaha memecahkan masalahnya.
 - Sebelum bertanya, cek kembali bahwa pertanyaan anda sudah jelas, soalnya kita bukan dukun.
@@ -13,7 +16,7 @@ Etika bertanya yang baik:
 - Ingat, kita semua manusia yang waktunya terbatas, jika tidak dijawab, harap bersabar.
 - Jika Anda tidak ditanggapi dengan serius, kemungkinan Anda tidak bertanya dengan benar.
 
-Contoh pertanyaan yang baik:
+## Contoh
 
 ```
 Selamat malam,
