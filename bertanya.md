@@ -1,5 +1,6 @@
 ---
 title: Bertanya
+nav_order: 2
 ---
 
 Etika bertanya yang baik:
