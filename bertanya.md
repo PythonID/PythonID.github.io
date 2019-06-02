@@ -1,4 +1,5 @@
 ---
+title: Bertanya
 ---
 
 Etika bertanya yang baik:
