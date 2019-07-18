@@ -8,7 +8,7 @@ nav_order: 2
 ## Umum
 
 - Gunakan username dan foto agar nyaman saat disebut dan enak dipandang mata
-- Definisi username mengikuti ini: https://telegram.org/faq#q-what-are-usernames-how-do-i-get-one
+- Definisi username mengikuti ini: [https://telegram.org/faq#q-what-are-usernames-how-do-i-get-one][faq]
 - Sopan dalam tutur kata karena di balik layar kita semua manusia.
 - Visi dan misi kami adalah merangkul semua kalangan.
 - Tidak ada toleransi untuk anggota yang melakukan bully, flamming, dan memicu perpecahan.
@@ -30,3 +30,5 @@ nav_order: 2
 - Jangan minta mengerjakan ujian / skripsi / interview, karena melanggar integritas.
 - Hukuman akan beragam, termasuk diusir dari grup hingga dilaporkan.
 - Laporan akan bisa mencapai sekolah / universitas / perusahaan yang bersangkutan.
+
+[faq]: https://telegram.org/faq#q-what-are-usernames-how-do-i-get-one
