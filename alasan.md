@@ -10,3 +10,4 @@ nav_order: 5
 - Cukup pendek dan mudah dipahami syntax-nya.
 - Supaya bisa oprek, banyak software pakai Python.
 - Ada minat yang bersangkutan.
+- Belajar bahasa pemrograman baru.
