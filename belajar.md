@@ -1,8 +1,9 @@
-* * *
+---
 
 title: Belajar
 
-## nav_order: 4
+nav_order: 4
+---
 
 # Rekomendasi Anggota Untuk Mulai Belajar
 
