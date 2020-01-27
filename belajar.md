@@ -14,6 +14,7 @@ nav_order: 4
 -   [Belajar Python, oleh Owo Sugiana](http://indorey.blogspot.co.id/2015/12/buku-belajar-python-dalam-bahasa.html)
 -   [Channel YouTube Indonesia Belajar](https://www.youtube.com/IndonesiaBelajarKomputer)
 -   [Membuat Aplikasi Bisnis, oleh Owo Sugiana](https://drive.google.com/file/d/0B_ZKePry36BiczFBbWVCSGlab2M/edit)
+-   [Memulai Pemrograman Dengan Python - Dicoding](https://www.dicoding.com/academies/86)
 
 ## Bahasa Inggris
 
