@@ -9,6 +9,9 @@ nav_order: 2
 
 - Gunakan username dan foto agar nyaman saat disebut dan enak dipandang mata
 - Definisi username mengikuti ini: [https://telegram.org/faq#q-what-are-usernames-how-do-i-get-one][faq]
+- Alasan wajib username adalah supaya
+(1) Bisa dinotifikasi di dalam group dengan lebih mudah
+(2) Bisa dirujuk di luar group anggota (misalkan di catatan admin)
 - Sopan dalam tutur kata karena di balik layar kita semua manusia.
 - Visi dan misi kami adalah merangkul semua kalangan.
 - Tidak ada toleransi untuk anggota yang melakukan bully, flamming, dan memicu perpecahan.
