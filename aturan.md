@@ -7,12 +7,15 @@ nav_order: 2
 
 ## Umum
 
-- Gunakan username dan foto agar nyaman saat disebut dan enak dipandang mata
+- Gunakan username dan foto profil (profile picture) agar nyaman saat disebut dan enak dipandang mata
 - Definisi username mengikuti ini: [https://telegram.org/faq#q-what-are-usernames-how-do-i-get-one][faq]
 - Username beda dengan display name. Contoh username adalah @sosispanggang, bukan "Farah Clara".
 - Alasan wajib username adalah supaya
 (1) Bisa dinotifikasi di dalam group dengan lebih mudah
 (2) Bisa dirujuk di luar group anggota (misalkan di catatan admin)
+- Foto profil wajib publik, tidak hanya untuk kontak tertentu saja.
+- Foto profil tidak wajib foto wajah asli.
+- Foto profil diharapkan sopan.
 - Sopan dalam tutur kata karena di balik layar kita semua manusia.
 - Visi dan misi kami adalah merangkul semua kalangan.
 - Tidak ada toleransi untuk anggota yang melakukan bully, flamming, dan memicu perpecahan.
