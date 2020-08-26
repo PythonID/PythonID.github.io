@@ -1,7 +1,7 @@
 # Selamat datang Kontributor :fireworks:
 Halaman ini berisi panduan bagaimana cara kamu dapat ikut berkontribusi pada repository ini. Hal yang kamu dapat lakukan adalah:
-1. Membuat & Membantu menjawab pertanyaan yang terdapat pada [issue](#)
-2. Memecahkan masalah berdasarkan [issue](#) yang ada, dan melakukan [Pull Request](#)
+1. Membuat & Membantu menjawab pertanyaan yang terdapat pada [Issue](https://github.com/PythonID/PythonID.github.io/issues?q=is%3Aissue+is%3Aopen+)
+2. Memecahkan masalah berdasarkan [Issue](https://github.com/PythonID/PythonID.github.io/issues?q=is%3Aissue+is%3Aopen+) yang ada, dan melakukan [Pull Request](https://github.com/PythonID/PythonID.github.io/compare)
 
 ## Membuat Issue
 Buat issue berdasarkan issue template yang tersedia atau jika tidak ada, dapat dengan format markdown sebagai berikut :
@@ -22,7 +22,7 @@ Untuk membantu berkontribusi pada repository ini, hendaknya kita melakukan pull 
 1. Lakukan fork pada repository ini
 2. Clone repository ke local
 ```bash
-$ git clone git@github.com:<Username>/PythonID.github.io.git
+$ git clone git@github.com:<username>/PythonID.github.io.git
 ```
 3. Masuk ke direktori repository
 ```bash
@@ -47,6 +47,6 @@ $ git commit -m "Berkaitan dengan #11 - Pesan perubahan"
 ```bash
 $ git push --set-upstream origin nama-branch
 ```
-9. Lakukan pull request dengan melakukan klik pada link yang tersedia setelah berhasil push, ataupun buat secara manual pada github
-10. Sertakan judul dan pesan pada pull request. Bila perlu gunakan template yang sudah ada.
+9. Lakukan pull request dengan melakukan klik pada link yang tersedia setelah berhasil push, atau buat [Pull Request](https://github.com/PythonID/PythonID.github.io/compare) secara manual pada github
+10. Sertakan judul dan pesan pada pull request. Bila perlu gunakan format template yang sudah ada.
 11. Menunggu hasil review
