@@ -1,4 +1,4 @@
-# Selamat datang Kontributor :firework
+# Selamat datang Kontributor :fireworks:
 Halaman ini berisi panduan bagaimana cara kamu dapat ikut berkontribusi pada repository ini. Hal yang kamu dapat lakukan adalah:
 1. Membuat & Membantu menjawab pertanyaan yang terdapat pada [issue](#)
 2. Memecahkan masalah berdasarkan [issue](#) yang ada, dan melakukan [Pull Request](#)
