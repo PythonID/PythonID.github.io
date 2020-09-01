@@ -12,7 +12,7 @@ Bisa berisi Ide/Masalah/Pertanyaan
 ## Judul ide / masalah / pertanyaan
 Ceritakan tentang ide/masalah/pertanyaan kamu pada bagian ini secara ringkas dan jelas
 
-## Sertakan Screenshoot (Opsional)
+## Sertakan Screenshot (Opsional)
 Unggah screenshoot ataupun gambar yang berkaitan dengan ide/masalah/pertanyaan yang ingin kamu bahas.
 ```
 
