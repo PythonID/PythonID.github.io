@@ -13,7 +13,7 @@ Bisa berisi Ide/Masalah/Pertanyaan
 Ceritakan tentang ide/masalah/pertanyaan kamu pada bagian ini secara ringkas dan jelas
 
 ## Sertakan Screenshot (Opsional)
-Unggah screenshoot ataupun gambar yang berkaitan dengan ide/masalah/pertanyaan yang ingin kamu bahas.
+Unggah screenshot ataupun gambar yang berkaitan dengan ide/masalah/pertanyaan yang ingin kamu bahas.
 ```
 
 ## Membuat Pull Request
