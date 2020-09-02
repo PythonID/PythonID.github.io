@@ -5,7 +5,7 @@ Halaman ini berisi panduan bagaimana cara kamu dapat ikut berkontribusi pada rep
 
 ## Membuat Issue
 Buat issue berdasarkan issue template yang tersedia atau jika tidak ada, dapat dengan format markdown sebagai berikut :
-```
+```markdown
 ## Kategori issue
 Bisa berisi Ide/Masalah/Pertanyaan
 
