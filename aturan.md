@@ -14,7 +14,7 @@ nav_order: 2
 (1) Bisa dinotifikasi di dalam group dengan lebih mudah
 (2) Bisa dirujuk di luar group anggota (misalkan di catatan admin)
 - Foto profil wajib publik, tidak hanya untuk kontak tertentu saja.
-- Foto profil, usermame, dan display name tidak wajib yang asli.
+- Foto profil, username, dan display name tidak wajib yang asli.
 - Foto profil, username, dan display name diharapkan sopan.
 - Sopan dalam tutur kata karena di balik layar kita semua manusia.
 - Visi dan misi kami adalah merangkul semua kalangan.
