@@ -20,6 +20,7 @@ nav_order: 4
 
 ### Gratis
 
+-   [Python Docs](https://docs.python.org/3/)
 -   [Learn Python](https://www.learnpython.org)
 -   [Learn Python the Hard Way](https://learnpythonthehardway.org)
 -   [Learn Python the Easy Way](https://pythonbooks.revolunet.com)
@@ -30,7 +31,6 @@ nav_order: 4
 -   [More Free eBooks by O'Relly](http://www.openculture.com/2017/01/download-243-free-ebooks-on-design-data-software.html)
 -   [How To Think Like A Computer Scientist](https://klinikpython.wordpress.com/2016/10/04/161001-ini-dia-buku-rujukan-terbaik-untuk-pemula/)
 -   [Django vs Flask](https://devel.tech/features/django-vs-flask/)
--   [Python for Everybody](https://www.coursera.org/courses?languages=en&query=python+for+everybody)
 -   [Full Stack Python](https://www.fullstackpython.com/)
 -   [Test-Driven Development with Python](https://testdriven.io/blog/)
 
@@ -40,3 +40,7 @@ nav_order: 4
 -   [Learning Python](http://shop.oreilly.com/product/0636920028154.do)
 -   [Everything You Need to Program in Python](https://www.udemy.com/the-python-bible/)
 -   [Test-Driven Development Intensive Course with Python](https://testdriven.io/courses/)
+-   [Coursera's Python for Everybody](https://www.coursera.org/specializations/python)
+-   [Coursera's Crash Course on Python](https://www.coursera.org/learn/python-crash-course)
+-   [DataCamp's Python Courses](https://learn.datacamp.com/courses/tech:python)
+- 	[Google's Python Class](https://developers.google.com/edu/python)
