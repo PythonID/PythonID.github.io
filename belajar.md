@@ -33,6 +33,7 @@ nav_order: 4
 -   [Django vs Flask](https://devel.tech/features/django-vs-flask/)
 -   [Full Stack Python](https://www.fullstackpython.com/)
 -   [Test-Driven Development with Python](https://testdriven.io/blog/)
+-   [PCAP: Programming Essentials in Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python)
 
 ### Berbayar
 
