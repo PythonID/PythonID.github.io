@@ -33,6 +33,7 @@ nav_order: 4
 -   [Django vs Flask](https://devel.tech/features/django-vs-flask/)
 -   [Full Stack Python](https://www.fullstackpython.com/)
 -   [Test-Driven Development with Python](https://testdriven.io/blog/)
+- 	[Google's Python Class](https://developers.google.com/edu/python)
 
 ### Berbayar
 
@@ -43,4 +44,11 @@ nav_order: 4
 -   [Coursera's Python for Everybody](https://www.coursera.org/specializations/python)
 -   [Coursera's Crash Course on Python](https://www.coursera.org/learn/python-crash-course)
 -   [DataCamp's Python Courses](https://learn.datacamp.com/courses/tech:python)
-- 	[Google's Python Class](https://developers.google.com/edu/python)
+
+## Latihan
+
+- [HackerRank](https://www.hackerrank.com/domains/python)
+- [Sphere Online Judge](https://www.spoj.com/)
+- [Codewars](https://www.codewars.com/kata/search/python?q=&&beta=false)
+- [Practice Python](https://www.practicepython.org/)
+- [Project Euler](https://projecteuler.net/)
