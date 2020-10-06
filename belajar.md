@@ -34,6 +34,8 @@ nav_order: 4
 -   [Full Stack Python](https://www.fullstackpython.com/)
 -   [Test-Driven Development with Python](https://testdriven.io/blog/)
 - 	[Google's Python Class](https://developers.google.com/edu/python)
+-   [PCAP: Programming Essentials in Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python)
+-   [Python Koans - Learn Python through TDD](https://github.com/gregmalcolm/python_koans)
 
 ### Berbayar
 
