@@ -66,6 +66,6 @@ nav_order: 4
 
 ## Referensi Proyek
 
-- [Edureka | Top Python Projects You Should Consider Learning](https://www.edureka.co/blog/python-projects/)
-- [Towards Data Science | Best Simple Python Projects for Beginners](https://towardsdatascience.com/best-small-python-projects-to-do-e0e3276ad465)
-- [Real Python | Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+- [Edureka - Top Python Projects You Should Consider Learning](https://www.edureka.co/blog/python-projects/)
+- [Towards Data Science - Best Simple Python Projects for Beginners](https://towardsdatascience.com/best-small-python-projects-to-do-e0e3276ad465)
+- [Real Python - Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
