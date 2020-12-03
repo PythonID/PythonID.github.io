@@ -63,6 +63,7 @@ nav_order: 4
 - [Codewars](https://www.codewars.com/kata/search/python?q=&&beta=false)
 - [Practice Python](https://www.practicepython.org/)
 - [Project Euler](https://projecteuler.net/)
+- [Kattis](https://open.kattis.com/)
 
 ## Referensi Proyek
 
