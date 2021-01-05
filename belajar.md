@@ -57,7 +57,7 @@ nav_order: 4
 - [WEBSITE] [Real Python Tutorials](https://realpython.com)
 
 ### Free Trial
-- [KURSUS] [DataCamp Access 2 Month Free - https://t.me/pythonID/155334]
+- [KURSUS] [DataCamp Access 2 Month Free](https://t.me/pythonID/155334)
 
 ## Latihan
 
