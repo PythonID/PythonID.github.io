@@ -56,6 +56,9 @@ nav_order: 4
 - [KURSUS] [DataCamp - Python Courses](https://learn.datacamp.com/courses/tech:python)
 - [WEBSITE] [Real Python Tutorials](https://realpython.com)
 
+### Free Trial
+- [KURSUS] [DataCamp Access 2 Month Free - https://t.me/pythonID/155334]
+
 ## Latihan
 
 - [HackerRank](https://www.hackerrank.com/domains/python)
