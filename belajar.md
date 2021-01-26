@@ -22,6 +22,7 @@ nav_order: 4
 - [WEBSITE] [Petani Kode - Tutorial Pemrograman Python](https://www.petanikode.com/tutorial/python/)
 - [WEBSITE] [CodeSaya - Python](https://codesaya.com/python/)
 - [WEBSITE] [Workshop Python 101](https://sakti.github.io/python101/)
+- [WEBSITE] [Belajar Python Bahasa Indonesia](https://sekolahkoding.com/track/belajar-python-bahasa-indonesia)
 - [YOUTUBE] [Channel Indonesia Belajar](https://www.youtube.com/IndonesiaBelajarKomputer)
 - [YOUTUBE] [Channel Kelas Terbuka](https://www.youtube.com/KelasTerbuka)
 
