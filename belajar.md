@@ -70,6 +70,9 @@ nav_order: 4
 - [Project Euler](https://projecteuler.net/)
 - [Kattis](https://open.kattis.com/)
 
+## Studi Kasus (tingkat lanjut)
+- [wtfpython](https://github.com/satwikkansal/wtfpython) 
+
 ## Referensi Proyek
 
 - [Edureka - Top Python Projects You Should Consider Learning](https://www.edureka.co/blog/python-projects/)
