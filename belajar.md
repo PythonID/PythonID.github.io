@@ -37,6 +37,7 @@ nav_order: 4
 - [BUKU] [Python Notes for Professionals](https://books.goalkicker.com/PythonBook/)
 - [REPO] [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
 - [REPO] [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
+- [KURSUS] [FreeCodeCamp - Python For Everybody](https://www.freecodecamp.org/learn/) Scientific Computing with Python Certification (300 hours)
 - [KURSUS] [Google's Python Class](https://developers.google.com/edu/python)
 - [KURSUS] [SoloLearn - Python 3](https://www.sololearn.com/Course/Python/)
 - [KURSUS] [PCAP: Programming Essentials in Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python)
