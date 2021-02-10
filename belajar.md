@@ -35,6 +35,7 @@ nav_order: 4
 - [BUKU] [More Free eBooks by O'Relly](https://www.oreilly.com/free/reports.html)
 - [BUKU] [How To Think Like A Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 - [BUKU] [Python Notes for Professionals](https://books.goalkicker.com/PythonBook/)
+- [BUKU] [100 Pages of Python Intro](https://learnbyexample.github.io/100_page_python_intro/introduction.html)
 - [REPO] [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
 - [REPO] [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
 - [KURSUS] [FreeCodeCamp - Python For Everybody](https://www.freecodecamp.org/learn/) Scientific Computing with Python Certification (300 hours)
