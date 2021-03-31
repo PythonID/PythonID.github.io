@@ -38,6 +38,7 @@ nav_order: 4
 - [BUKU] [100 Pages of Python Intro](https://learnbyexample.github.io/100_page_python_intro/introduction.html)
 - [REPO] [gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
 - [REPO] [learnbyexample/scripting_course](https://github.com/learnbyexample/scripting_course/blob/master/Python_curated_resources.md)
+- [REPO] [tuvtran/project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
 - [KURSUS] [FreeCodeCamp - Python For Everybody](https://www.freecodecamp.org/learn/) Scientific Computing with Python Certification (300 hours)
 - [KURSUS] [Google's Python Class](https://developers.google.com/edu/python)
 - [KURSUS] [SoloLearn - Python 3](https://www.sololearn.com/Course/Python/)
