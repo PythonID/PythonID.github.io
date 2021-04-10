@@ -46,6 +46,7 @@ nav_order: 4
 - [WEBSITE] [Tutorialspoint - Python 3 Tutorial](https://www.tutorialspoint.com/python3/)
 - [WEBSITE] [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
 - [WEBSITE] [Full Stack Python - Build, Deploy and Operate Python Applications](https://www.fullstackpython.com/)
+- [WEBSITE] [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
 
 ### Berbayar
 
