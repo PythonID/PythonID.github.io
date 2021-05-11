@@ -31,6 +31,7 @@ nav_order: 4
 
 ### Gratis
 
+- [YOUTUBE] [Python Full Course](https://youtu.be/XKHEtdqhLK8)
 - [BUKU] [Free Programming eBooks by O'Relly](https://www.oreilly.com/programming/free/)
 - [BUKU] [More Free eBooks by O'Relly](https://www.oreilly.com/free/reports.html)
 - [BUKU] [How To Think Like A Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
