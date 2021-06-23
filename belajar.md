@@ -26,6 +26,7 @@ nav_order: 4
 - [WEBSITE] [Belajar Python Bahasa Indonesia](https://sekolahkoding.com/track/belajar-python-bahasa-indonesia)
 - [YOUTUBE] [Channel Indonesia Belajar](https://www.youtube.com/IndonesiaBelajarKomputer)
 - [YOUTUBE] [Channel Kelas Terbuka](https://www.youtube.com/KelasTerbuka)
+- [YOUTUBE] [Channel Programmer Zaman Now](https://www.youtube.com/ProgrammerZamanNow)
 
 ## Bahasa Inggris
 
