@@ -82,3 +82,11 @@ nav_order: 4
 - [Edureka - Top Python Projects You Should Consider Learning](https://www.edureka.co/blog/python-projects/)
 - [Towards Data Science - Best Simple Python Projects for Beginners](https://towardsdatascience.com/best-small-python-projects-to-do-e0e3276ad465)
 - [Real Python - Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/)
+
+## Elearning - MOOCs
+
+- [eLearning Rakyat oleh Onno W Purbo](https://lms.onnocenter.or.id/moodle/ "e-Learning Rakyat banyak digunakan untuk memandaikan guru2 tentang e-Learning secara swadaya masyarakat di lebih dari 80+ kota (16.000++ guru) di Indonesia")
+- [Open Course Institut oleh Institut Teknologi Tangerang Selatan](https://opencourse.itts.ac.id/ "Pembelajaran Eksternal dan Free (Masyarakat Umum, SMA, SMK, Sedejarat, Kampus Lain)")
+- [Mastel Digital Academy oleh BAKTI Kominfo](https://mdamastel.id/course/ "Program Pelatihan Dasar Jaringan dan Perangkat Lunak Dalam Rangka Pemberdayaan Masyarakat Desa.")
+- [Cyber Academy](https://www.cyberacademy.id/belajar-online "Belajar Online Cyber Security")
+- [BISA.AI](https://bisa.ai/ "Belajar Artificial Intelligence dan Teknologi Informasi melalui Webinar, Course Academy dan Bootcamp")
