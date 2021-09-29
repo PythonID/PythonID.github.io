@@ -22,6 +22,7 @@ nav_order: 2
 - Tidak ada toleransi untuk anggota yang melakukan bully, flamming, dan memicu perpecahan.
 - Admin akan memulangkan anggota yang bermasalah.
 - DILARANG pakai kata Suhu, Gan, Master, Mastah dan sejenisnya.
+- Intinya tidak meninggikan atau merendahkan orang lain atau diri sendiri.
 - Diharapkan pakai panggilan Mas, Mbak, Bapak, Ibu, dan sejenisnya.
 - Keluar topik boleh, selama tidak memicu keributan dan perpecahan.
 - Admin berhak hapus post yang dirasa tidak layak ataupun menyalahi aturan.
