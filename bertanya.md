@@ -13,10 +13,7 @@ nav_order: 3
   - Silahkan cek kembali bahwa pertanyaan anda sudah jelas, karena kami tidak bisa membaca pikiran.
 
 - Saat bertanya, lakukan hal-hal berikut: 
-  - [Jangan bertanya untuk bertanya](https://dontasktoask.com/), contoh:
-    - *"Boleh saya bertanya tentang x?"*
-    - *"Ada yang bisa y?"*
-    - Atau pertanyaan lainnya yang hanya memiliki 2 kemungkinan jawaban: *Ya* atau *Tidak*
+  - [Jangan meminta ditanya](https://dontasktoask.com/id), langsung ajukan saja pertanyaan Anda - **Jangan** bertanya "Bolehkah saya bertanya?" atau hal-hal seperti "Apa yang bisa x?"
   - Jelaskan *tujuan* Anda, bukan *langkah* melakukannya. Silahkan baca [XY Problem](http://xyproblem.info/) sebagai referensi.
   - Tunjukkan bahwa Anda sudah berusaha memecahkan masalahnya.
   - Penting: Lampirkan tangkapan layar ([Screenshot](https://www.take-a-screenshot.org/)) yang jelas, **bukan** difoto dengan kamera.
