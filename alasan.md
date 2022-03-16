@@ -11,3 +11,7 @@ nav_order: 5
 - Supaya bisa oprek, banyak software pakai Python.
 - Ada minat yang bersangkutan.
 - Belajar bahasa pemrograman baru.
+- Bahasa yang user-friendly.
+- Extensibility dari Python.
+- Pengujian.
+- Peran Python dalam Big Data dan Otomasi.
