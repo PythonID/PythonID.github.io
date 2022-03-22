@@ -49,8 +49,8 @@ nav_order: 4
 - [WEBSITE] [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
 - [WEBSITE] [Full Stack Python - Build, Deploy and Operate Python Applications](https://www.fullstackpython.com/)
 - [WEBSITE] [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
-- [WEBSITE][W3Shcool Python](https://www.w3schools.com/python/default.asp)
-- [WEBSITE][Javapoint Python](https://www.javatpoint.com/python-tutorial)
+- [WEBSITE] [W3Shcool Python](https://www.w3schools.com/python/default.asp)
+- [WEBSITE] [Javapoint Python](https://www.javatpoint.com/python-tutorial)
 
 ### Berbayar
 
