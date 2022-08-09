@@ -17,7 +17,6 @@ nav_order: 4
 
 ## Bahasa Indonesia
 
-- [BUKU] [Belajar Python, oleh Owo Sugiana](http://indorey.blogspot.co.id/2015/12/buku-belajar-python-dalam-bahasa.html)
 - [KURSUS] [Dicoding - Memulai Pemrograman Dengan Python](https://www.dicoding.com/academies/86)
 - [WEBSITE] [Petani Kode - Tutorial Pemrograman Python](https://www.petanikode.com/tutorial/python/)
 - [WEBSITE] [CodeSaya - Python](https://codesaya.com/python/)
