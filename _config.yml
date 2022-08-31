@@ -5,4 +5,4 @@ search_enabled: true
 aux_links:
     "Sumber situs ini di GitHub":
       - "https://github.com/PythonID/PythonID.github.io"
-color_scheme: "dark"
+color_scheme: dark
