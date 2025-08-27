@@ -29,10 +29,9 @@ nav_order: 2
 
 ### Promo
 
-- Promo termasuk promosi acara, lowongan kerja, dan sejenisnya.
-- PENTING hubungi admin, karena admin yang akan posting.
-- Usahakan berupa brosur. Teks maksimal 160 karakter.
-- ANCAMAN ban 3 hari jika melanggar aturan promo.
+- Promo adalah niat promosi apapun, gunakanlah topik Promo & Survey, kecuali ada topik khusus seperti Lowongan & Permintaan untuk lowongan kerja atau meminta tolong yang berbayar; atau topik Talenta & Jasa untuk menawarkan jasa atau memberi tahu bahwa diri sendiri sedang cari kerja; dsb.
+- Silakan posting sendiri, tapi kalau bingung bisa tanya admin.
+- ANCAMAN ban jika menyampah / spam.
 
 ### Pesan Layanan Masyarakat
 
