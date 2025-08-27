@@ -31,6 +31,7 @@ nav_order: 2
 
 - Promo adalah niat promosi apapun, gunakanlah topik Promo & Survey, kecuali ada topik khusus seperti Lowongan & Permintaan untuk lowongan kerja atau meminta tolong yang berbayar; atau topik Talenta & Jasa untuk menawarkan jasa atau memberi tahu bahwa diri sendiri sedang cari kerja; dsb.
 - Silakan posting sendiri, tapi kalau bingung bisa tanya admin.
+- Jangan promosi sesuatu yang melanggar hukum.
 - ANCAMAN ban jika menyampah / spam.
 
 ### Pesan Layanan Masyarakat
